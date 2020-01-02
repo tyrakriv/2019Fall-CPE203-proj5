@@ -1,0 +1,34 @@
+ufo images/ufo2.png 255 255 255 0
+ufo images/ufo.png 255 255 255 0
+meteor images/meteor.png 255 255 255 0
+Asteroid images/fire1.png 255 255 255 0
+Asteroid images/fire2.png 255 255 255 0
+Asteroid images/fire3.png 255 255 255 0
+Asteroid images/fire4.png 255 255 255 0
+ship images/upPplane.png 255 255 255 0
+ship images/downPplane.png 255 255 255 0
+ship images/leftPplane.png 255 255 255 0
+ship images/rightPplane.png 255 255 255 0
+shipB images/upBplane.png 255 255 255 0
+shipB images/downBplane.png 255 255 255 0
+shipB images/leftBplane.png 255 255 255 0
+shipB images/rightBplane.png 255 255 255 0
+earth images/earth1.png 255 255 255 0
+earth images/earth2.png 255 255 255 0
+earth images/earth3.png 255 255 255 0
+planet images/p3.png 255 255 255 0
+planet images/p1.png 255 255 255 0
+planet images/p2.png 255 255 255 0
+sea images/sea.jpg 255 255 255 0
+obstacle images/rock.bmp
+fire images/f1.png 255 255 255 0
+fire images/f2.png 255 255 255 0
+fire images/f3.png 255 255 255 0
+fire images/f4.png 255 255 255 0
+background_default images/none.bmp
+star images/star1.jpg
+star images/star2.jpg
+star images/star3.jpg
+star images/star4.jpg
+down images/sea.jpg
+
